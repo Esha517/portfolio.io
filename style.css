@@ -1,0 +1,42 @@
+/* Global Properties */
+/* html {
+  scroll-behavior: smooth;
+} */
+
+body {
+  background: #d5f4e6;
+  font-family: "Baloo Tamma 2", cursive;
+}
+
+/* Main Heading Font */
+.m-heading {
+  font-family: "Roboto Slab", serif;
+}
+
+.navigation-link {
+ border: 2px solid transparent;
+}
+
+.navigation-lonk:hover {
+   text-decorattion: none;
+   border-bottom:2px solid #f5ba09;
+   transistion: 0.5s ease;
+}
+
+.main_row {
+ display:flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.mainrow h1 {
+ font-size: 5rem;
+}
+
+.media_link {
+ padding:1rem;
+ max-width:15rem;
+ margin-left:1rem;
+ border:2px; 
+ border-radius: 0.5rem;
+}
